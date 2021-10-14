@@ -1,6 +1,32 @@
 /* Bordered form */
-form {
-    border: 3px solid #f1f1f1;
+
+body{
+
+
+  background: -webkit-linear-gradient(-180deg, rgb(255, 157, 247), rgb(101, 178, 255));
+  background: linear-gradient(-180deg, rgb(255, 157, 247), rgb(101, 178, 255));
+  
+
+}
+
+
+
+  #titre{
+    align-items: center;
+    text-align: center;
+  }
+
+  #soustitre{
+    align-items: center;
+    text-align: center;
+    margin-top: 10vh;
+  }
+
+
+  #pic{
+    align-items: center;
+    text-align: center;
+    margin-top: 10vh;
   }
   
   /* Full-width inputs */

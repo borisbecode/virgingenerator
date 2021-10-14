@@ -13,9 +13,15 @@ button.addEventListener("click",function(){
 
 
 
-responsiveVoice.speak(sentence, "French Female");
+            responsiveVoice.speak(sentence, "French Female");
+
+
+     document.getElementById("pic").innerHTML =    "<img src='https://image.noelshack.com/fichiers/2021/07/1/1613400733-puceau-moi-serieusement-haha.png'>"  
 
 
 
 })
+
+
+
 
